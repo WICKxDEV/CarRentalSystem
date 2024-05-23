@@ -358,7 +358,7 @@ class CarRentalSystem {
         System.out.println("Rental Days: " + rentalDays);
         System.out.println("Rent Date: " + dateFormat.format(rentDate));
         System.out.println("Return Date: " + dateFormat.format(rental.getReturnDate()));
-        System.out.println("Initial Odometer: " + initialOdometer);
+        System.out.println("Initial Odometer: " + initialOdometer+"KM");
         System.out.printf("Total Price: Rs. %.2f%n", totalPrice);
 
         System.out.print("\nConfirm rental (Y/N): ");
