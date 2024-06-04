@@ -89,4 +89,4 @@ The code is structured to provide clear separation of concerns:
 
 This structure allows for easy maintenance and scalability of the system.
 
-##Auther : WICKxDEV
+## Auther : WICKxDEV
